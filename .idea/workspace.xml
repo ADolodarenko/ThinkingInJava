@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24131b1a-2075-416f-a95f-126d2da6ce53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter21/restaurant2/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter21/restaurant2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter21/restaurant2/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter21/restaurant2/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter21/restaurant2/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter21/restaurant2/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter21/restaurant2/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter21/restaurant2/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter21/restaurant2/Order.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,17 +27,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>ArrayList</find>
-      <find>add(</find>
-      <find>asList(</find>
-      <find>addA</find>
-      <find>addAll(</find>
-      <find>addAll</find>
-      <find>toStr</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToastOMatic">
+  <component name="RunManager" selected="Application.RestaurantWithQueues">
     <configuration name="FlagGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter21.activewaiting.FlagGames" />
       <module name="ThinkingInJava" />
@@ -100,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrnamentalGarden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter21.ornamental.OrnamentalGarden" />
+    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter21.restaurant.Restaurant" />
       <module name="ThinkingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter21.ornamental.*" />
+          <option name="PATTERN" value="chapter21.restaurant.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter21.restaurant.Restaurant" />
+    <configuration name="RestaurantWithQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter21.restaurant2.RestaurantWithQueues" />
       <module name="ThinkingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter21.restaurant.*" />
+          <option name="PATTERN" value="chapter21.restaurant2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OrnamentalGarden" />
       <item itemvalue="Application.GlorifiedAnticipation" />
       <item itemvalue="Application.FlagGames" />
       <item itemvalue="Application.Restaurant" />
       <item itemvalue="Application.ToastOMatic" />
+      <item itemvalue="Application.RestaurantWithQueues" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RestaurantWithQueues" />
         <item itemvalue="Application.ToastOMatic" />
         <item itemvalue="Application.Restaurant" />
         <item itemvalue="Application.FlagGames" />
         <item itemvalue="Application.GlorifiedAnticipation" />
-        <item itemvalue="Application.OrnamentalGarden" />
       </list>
     </recent_temporary>
   </component>
